@@ -1,6 +1,8 @@
+package Arrays;
+
 import java.util.Arrays;
 
-class Solution {
+public class getSecondLargest {
     
     static int getSecondLargest(int[] arr) {
         int n = arr.length;
