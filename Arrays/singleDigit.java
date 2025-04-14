@@ -26,4 +26,3 @@ public class singleDigit {
         System.out.println(singleDigit(n));
     }
 }
-}
